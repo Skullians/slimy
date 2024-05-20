@@ -1,4 +1,4 @@
-# Slimy
+# Slimy!
 
 [![Discord](https://img.shields.io/badge/chat%20on-discord-7289DA?logo=discord)](https://discord.gg/zEnfMVJqe6)
 
